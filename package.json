@@ -1,0 +1,17 @@
+{
+  "name": "basic-electron-app",
+  "version": "1.0.0",
+  "description": "creating electron app for learning purpose",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "electron"
+  ],
+  "author": "kartik chauhan",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^1.8.2"
+  }
+}
